@@ -10,9 +10,10 @@ body{
      color: white;
  }
  .repeat{
-     color: green;
+     color: yellow;
  }
 
  h2{
      color: red;
+     text-align: center;
  }
